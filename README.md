@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD: Miel Mahmud Sifat</h1>
 <h3 align="center">Student of Bangladesh University Of Business & Technology</h3>
+<p align="middle"> <img src="1691989932071.gif" alt="miel2793" /> </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miel2793&label=Profile%20views&color=0e75b6&style=flat" alt="miel2793" /> </p>
 
