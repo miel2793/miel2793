@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miel2793" alt="miel2793" /></a> </p>
 
-- 🌱 I’m currently learning **Mern,cybersecurity**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **c/c++**
 
