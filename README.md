@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD: Miel Mahmud Sifat</h1>
-<h2 align="center">Programmer || cybersecurity Expert</h2>
+<h2 align="center"> Compititive Programmer||Flutter Developer</h2>
 <h3 align="center">Student of Bangladesh University Of Business & Technology</h3>
 <p align="middle"> <img src="1691989932071.gif" alt="miel2793" /> </p>
 
