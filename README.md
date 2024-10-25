@@ -13,7 +13,7 @@ Working on:App Development With Flutter<br>Learning:Flutter<br>Ask me about:Prob
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miel2793&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-     ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=miel2793&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
