@@ -27,7 +27,8 @@
 
 ###
 
-<p align="left">I'm Mie from  Bangladesh University Of Business& Technology <br><br>- 🔭 I’m working as  Student <br>- 📚 I'm currently learning  Flutter<br>- ⚡  </p>
+<p align="left">I'm Miel Mahmud Sifat
+  from  Bangladesh University Of Business& Technology <br><br>- 🔭 I’m working as  Student <br>- 📚 I'm currently learning  Flutter<br>- ⚡  </p>
 
 ###
 
