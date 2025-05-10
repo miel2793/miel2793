@@ -1,7 +1,6 @@
 <!-- 👋 Greeting with Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum !+%F0%9F%91%8B;I'm+Miel+Mahmud+Sifat; 
-  Flutter+Dev+%7C+C%2FC%2B%2B+Geek+%7C+Dreaming+Big" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum%2C+A+Flutter+Developer+here!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,7 +14,7 @@
 - 🧑‍🎓 **CSE Student** at BUBT  
 - 💻 Passionate **Flutter Developer & C++ Enthusiast**  
 - 🚀 I love turning **complex problems into real apps**  
-- 🎯 Currently exploring **MERN stack & Firebase integration**  
+- 🎯 Currently exploring ** Flutte & Firebase integration & Others**  
 - 🛠 Always open to learning and collaboration!
 
 ---
@@ -49,7 +48,7 @@
 | 🔗 Project | 🧠 Description |
 |-----------|----------------|
 | [🚗 Parking System](https://github.com/miel2793/Parking-Management-System-For-BUBT) | Smart parking system in C++ |
-| [🌐 Portfolio](https://github.com/miel2793/My-Portfolio) | Modern personal website |
+| [🧮 Function Practice](https://github.com/miel2793/Function.c) | Basic to advanced C functions |
 
 ---
 
