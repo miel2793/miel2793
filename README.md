@@ -14,7 +14,7 @@
 - 🧑‍🎓 **CSE Student** at BUBT  
 - 💻 Passionate **Flutter Developer & C++ Enthusiast**  
 - 🚀 I love turning **complex problems into real apps**  
-- 🎯 Currently exploring **MERN stack & Firebase integration**  
+- 🎯 Currently exploring **Advance Flutter & Firebase integration**  
 - 🛠 Always open to learning and collaboration!
 
 ---
@@ -58,15 +58,6 @@
 - **Responsive Design**: Ensured all web-based projects are mobile-friendly.
 - **Advanced Algorithms**: Demonstrated in the C++ projects.
 
-### 📱 Flutter App Showcase:
-
-| Project Title | Description |
-| ------------- | ----------- |
-| [🧑‍💻 **Task Manager**](https://github.com/miel2793/Task-Manager-App) | A **Flutter-based Task Management app** with real-time sync using Firebase. |
-| [📝 **BMI Calculator**](https://github.com/miel2793/BMI-Calculator) | A **simple Flutter app** that calculates Body Mass Index (BMI). |
-| [💬 **Chat App**](https://github.com/miel2793/Flutter-Chat-App) | **Real-time chat app** developed using Flutter and Firebase. |
-
----
 
 ### 📈 GitHub Stats & Trophies
 
