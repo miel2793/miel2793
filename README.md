@@ -3,19 +3,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum!" alt="Typing SVG" />
 </h1>
 
-<!-- Animated Wave Banner (This will work) -->
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg" />
+</p>
+
+<!-- Animated Wave Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/PlayaBoi/wave-animation/main/wave.gif" alt="Animated Wave Banner" width="100%" />
 </p>
 
-<!-- Flutter Coding Animation -->
+<!-- Animated Flutter Coding -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/arjunar/blob/main/assets/flutter-dev.gif" width="400" alt="Flutter Developer Animation" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
 - 🧑‍🎓 **CSE Student** at BUBT  
 - 💻 Passionate **Flutter Developer & C++ Enthusiast**  
@@ -64,8 +69,6 @@
 - **Responsive Design**: Ensured all web-based projects are mobile-friendly.
 - **Advanced Algorithms**: Demonstrated in the C++ projects.
 
----
-
 ### 📈 GitHub Stats & Trophies
 
 <p align="center">
@@ -102,13 +105,6 @@
 
 ---
 
-### 📫 Contact Me via Email
-
-- 📧 **[mahmudsifat2793@gmail.com](mailto:mahmudsifat2793@gmail.com)**
-- 📧 **[20234103368@cse.bubt.edu](mailto:20234103368@cse.bubt.edu)**
-
----
-
 ### 👁️ Visitor Count
 
 <p align="center">
@@ -128,9 +124,4 @@
 <p align="center">
   <b>“Code like poetry, deploy like magic.”</b><br/>
   🔥 Stay curious. Keep building. Connect with me anytime!
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg" />
 </p>
