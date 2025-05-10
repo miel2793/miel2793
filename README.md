@@ -3,11 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum!" alt="Typing SVG" />
 </h1>
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miel2793/YourBannerImageLink/main/banner.jpg" alt="Banner Image" width="100%" />
-</p>
-
+<!-- Flutter Coding Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/arjunar/blob/main/assets/flutter-dev.gif" width="400" alt="Flutter Developer Animation" />
 </p>
@@ -19,7 +15,7 @@
 - 🧑‍🎓 **CSE Student** at BUBT  
 - 💻 Passionate **Flutter Developer & C++ Enthusiast**  
 - 🚀 I love turning **complex problems into real apps**  
-- 🎯 Currently exploring **Advance Flutter & Firebase integration**  
+- 🎯 Currently exploring **Advanced Flutter & Firebase integration**  
 - 🛠 Always open to learning and collaboration!
 
 ---
@@ -63,6 +59,8 @@
 - **Responsive Design**: Ensured all web-based projects are mobile-friendly.
 - **Advanced Algorithms**: Demonstrated in the C++ projects.
 
+---
+
 ### 📈 GitHub Stats & Trophies
 
 <p align="center">
@@ -83,6 +81,9 @@
 ### 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:mielmsifat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mielmahmud">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -112,6 +113,12 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+### 🎉 Fun Fact
+
+> 💡 **Fun Fact**: I can build a professional website for you for just 500 BDT! 😉
 
 ---
 
