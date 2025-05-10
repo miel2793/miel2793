@@ -1,9 +1,6 @@
 <!-- 👋 Greeting with Typing Animation -->
 <h1 align="center">
-  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum%2C+A+Flutter+Developer+here!" alt="Typing SVG" />
-</h1>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,7 +14,7 @@
 - 🧑‍🎓 **CSE Student** at BUBT  
 - 💻 Passionate **Flutter Developer & C++ Enthusiast**  
 - 🚀 I love turning **complex problems into real apps**  
-- 🎯 Currently exploring ** Flutte & Firebase integration & Others**  
+- 🎯 Currently exploring **MERN stack & Firebase integration**  
 - 🛠 Always open to learning and collaboration!
 
 ---
@@ -48,10 +45,26 @@
 
 ### 🚀 Highlighted Projects
 
-| 🔗 Project | 🧠 Description |
-|-----------|----------------|
-| [🚗 Parking System](https://github.com/miel2793/Parking-Management-System-For-BUBT) | Smart parking system in C++ |
-| [🧮 Function Practice](https://github.com/miel2793/Function.c) | Basic to advanced C functions |
+| 🔗 Project | 🧠 Description | 🛠 Technologies |
+|------------|----------------|----------------|
+| [🚗 **Parking Management System**](https://github.com/miel2793/Parking-Management-System-For-BUBT) | Smart parking system in **C++** with real-time management. | C++, Data Structures, Algorithms |
+| [🌐 **Portfolio Website**](https://github.com/miel2793/My-Portfolio) | Personal portfolio showcasing skills, projects, and achievements. | HTML, CSS, JavaScript, Responsive Design |
+
+---
+
+### 💡 Key Features:
+- **Flutter**: Used for building cross-platform mobile apps.
+- **Firebase**: Integrated in many projects for real-time data storage.
+- **Responsive Design**: Ensured all web-based projects are mobile-friendly.
+- **Advanced Algorithms**: Demonstrated in the C++ projects.
+
+### 📱 Flutter App Showcase:
+
+| Project Title | Description |
+| ------------- | ----------- |
+| [🧑‍💻 **Task Manager**](https://github.com/miel2793/Task-Manager-App) | A **Flutter-based Task Management app** with real-time sync using Firebase. |
+| [📝 **BMI Calculator**](https://github.com/miel2793/BMI-Calculator) | A **simple Flutter app** that calculates Body Mass Index (BMI). |
+| [💬 **Chat App**](https://github.com/miel2793/Flutter-Chat-App) | **Real-time chat app** developed using Flutter and Firebase. |
 
 ---
 
