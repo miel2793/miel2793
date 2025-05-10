@@ -3,19 +3,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum!" alt="Typing SVG" />
 </h1>
 
-<!-- 👨‍💻 Flutter Coding Animation -->
+<!-- Wave SVG Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Flutter Coding Animation" />
+  <img src="https://raw.githubusercontent.com/miel2793/YourBannerImageLink/main/banner.jpg" alt="Wave Banner" width="100%" />
+</p>
+
+<!-- Flutter Coding Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/arjunar/blob/main/assets/flutter-dev.gif" width="400" alt="Flutter Developer Animation" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
 - 🧑‍🎓 **CSE Student** at BUBT  
 - 💻 Passionate **Flutter Developer & C++ Enthusiast**  
 - 🚀 I love turning **complex problems into real apps**  
-- 🎯 Currently exploring **Advanced Flutter & Firebase integration**  
+- 🎯 Currently exploring **Advance Flutter & Firebase integration**  
 - 🛠 Always open to learning and collaboration!
 
 ---
@@ -81,9 +86,6 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mielmsifat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/mielmahmud">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -97,6 +99,13 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 📫 Contact Me via Email
+
+- 📧 **[mahmudsifat2793@gmail.com](mailto:mahmudsifat2793@gmail.com)**
+- 📧 **[20234103368@cse.bubt.edu](mailto:20234103368@cse.bubt.edu)**
 
 ---
 
@@ -116,13 +125,12 @@
 
 ---
 
-### 🎉 Fun Fact
-
-> 💡 **Fun Fact**: I can build a professional website for you for just 500 BDT! 😉
-
----
-
 <p align="center">
   <b>“Code like poetry, deploy like magic.”</b><br/>
   🔥 Stay curious. Keep building. Connect with me anytime!
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg" />
 </p>
