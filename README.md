@@ -3,17 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum!" alt="Typing SVG" />
 </h1>
 
-<!-- Snake Animation -->
+<!-- Banner with Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/miel2793/YourSnakeGifLink/main/snake.gif" alt="Snake Animation" width="100%" />
 </p>
 
-<!-- Animated Wave Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PlayaBoi/wave-animation/main/wave.gif" alt="Animated Wave Banner" width="100%" />
-</p>
-
-<!-- Animated Flutter Coding -->
+<!-- Flutter Developer Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/arjunar/blob/main/assets/flutter-dev.gif" width="400" alt="Flutter Developer Animation" />
 </p>
@@ -100,6 +95,12 @@
   </a>
   <a href="https://codeforces.com/profile/sifat_2793">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="mailto:mahmudsifat2793@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:20234103368@cse.bubt.edu.bd">
+    <img src="https://img.shields.io/badge/University%20Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
