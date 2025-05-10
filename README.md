@@ -1,183 +1,136 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- 👋 Greeting with Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum!" alt="Typing SVG" />
+</h1>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Miel Mahmud Sifat - Portfolio</title>
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@600&display=swap" rel="stylesheet">
-    <style>
-        /* General Styles */
-        body {
-            font-family: 'Fira Code', monospace;
-            margin: 0;
-            padding: 0;
-            background-color: #1e1e1e;
-            color: #fff;
-        }
+<!-- Animated Wave Banner (This will work) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PlayaBoi/wave-animation/main/wave.gif" alt="Animated Wave Banner" width="100%" />
+</p>
 
-        h1,
-        h2,
-        h3 {
-            text-align: center;
-        }
+<!-- Flutter Coding Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/arjunar/blob/main/assets/flutter-dev.gif" width="400" alt="Flutter Developer Animation" />
+</p>
 
-        a {
-            color: #36BCF7;
-            text-decoration: none;
-        }
+---
 
-        p {
-            text-align: center;
-        }
+### 🧑‍💻 About Me
 
-        img {
-            max-width: 100%;
-            height: auto;
-        }
+- 🧑‍🎓 **CSE Student** at BUBT  
+- 💻 Passionate **Flutter Developer & C++ Enthusiast**  
+- 🚀 I love turning **complex problems into real apps**  
+- 🎯 Currently exploring **Advance Flutter & Firebase integration**  
+- 🛠 Always open to learning and collaboration!
 
-        /* Header */
-        header {
-            position: relative;
-            width: 100%;
-            padding: 20px 0;
-        }
+---
 
-        /* Typing Animation */
-        .typing-text {
-            font-size: 30px;
-            color: #36BCF7;
-            animation: typing 3s steps(30) infinite;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: 3px solid #36BCF7;
-        }
+### ⚙️ Tools, Tech & Platforms I Use
 
-        @keyframes typing {
-            from {
-                width: 0;
-            }
+#### 🖥️ Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,dart,python,html,css,js,ts" />
+</p>
 
-            to {
-                width: 25em;
-            }
-        }
+#### 📱 Mobile & Web Dev
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,mongodb,firebase,express" />
+</p>
 
-        /* Snake Animation */
-        .snake-animation {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 150px;
-            background: url('https://raw.githubusercontent.com/absardari/snake-scroll-animation/master/snake.gif') repeat-x;
-            animation: scroll-snake 10s linear infinite;
-        }
+#### 🧰 Dev Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma,linux" />
+</p>
 
-        @keyframes scroll-snake {
-            0% {
-                transform: translateX(0);
-            }
+#### 🎨 Design & Content
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,canva" />
+</p>
 
-            100% {
-                transform: translateX(-100%);
-            }
-        }
+---
 
-        /* Tech Stack Icons */
-        .tech-stack img {
-            margin: 0 10px;
-        }
+### 🚀 Highlighted Projects
 
-        /* GitHub Stats and Trophies */
-        .github-stats img {
-            width: 45%;
-            margin: 10px;
-        }
+| 🔗 Project | 🧠 Description | 🛠 Technologies |
+|------------|----------------|----------------|
+| [🚗 **Parking Management System**](https://github.com/miel2793/Parking-Management-System-For-BUBT) | Smart parking system in **C++** with real-time management. | C++, Data Structures, Algorithms |
+| [🌐 **Portfolio Website**](https://github.com/miel2793/My-Portfolio) | Personal portfolio showcasing skills, projects, and achievements. | HTML, CSS, JavaScript, Responsive Design |
 
-        .github-stats p {
-            margin-top: 20px;
-        }
+---
 
-        /* Contact Section */
-        .contact {
-            margin-top: 30px;
-            text-align: center;
-        }
+### 💡 Key Features:
+- **Flutter**: Used for building cross-platform mobile apps.
+- **Firebase**: Integrated in many projects for real-time data storage.
+- **Responsive Design**: Ensured all web-based projects are mobile-friendly.
+- **Advanced Algorithms**: Demonstrated in the C++ projects.
 
-        /* Footer */
-        footer {
-            background-color: #121212;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-        }
-    </style>
-</head>
+---
 
-<body>
+### 📈 GitHub Stats & Trophies
 
-    <!-- Header with Typing Animation -->
-    <header>
-        <h1 class="typing-text">Assalamualykum!</h1>
-        <p>Welcome to my portfolio.</p>
-    </header>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miel2793&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=miel2793&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
-    <!-- Snake Animation -->
-    <div class="snake-animation"></div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miel2793&theme=tokyonight" />
+</p>
 
-    <!-- About Me Section -->
-    <section>
-        <h2>👨‍💻 About Me</h2>
-        <p>
-            🧑‍🎓 **CSE Student** at BUBT <br>
-            💻 Passionate **Flutter Developer & C++ Enthusiast** <br>
-            🚀 I love turning **complex problems into real apps** <br>
-            🎯 Currently exploring **Advance Flutter & Firebase integration** <br>
-            🛠 Always open to learning and collaboration!
-        </p>
-    </section>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miel2793&theme=gruvbox&margin-w=10&no-frame=true&title=Stars,Commits,Followers,Repositories" />
+</p>
 
-    <!-- Tech Stack -->
-    <section class="tech-stack">
-        <h2>⚙️ Tools, Tech & Platforms I Use</h2>
-        <p>
-            <img src="https://skillicons.dev/icons?i=c,cpp,dart,python,html,css,js,ts" alt="Tech Stack" />
-            <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,mongodb,firebase,express" alt="Tech Stack" />
-            <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma,linux" alt="Dev Tools" />
-        </p>
-    </section>
+---
 
-    <!-- GitHub Stats and Trophies -->
-    <section class="github-stats">
-        <h2>📈 GitHub Stats & Trophies</h2>
-        <p>
-            <img src="https://github-readme-stats.vercel.app/api?username=miel2793&show_icons=true&theme=tokyonight&hide_border=true" />
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=miel2793&theme=tokyonight&hide_border=true" />
-        </p>
-        <p>
-            <img src="https://github-profile-trophy.vercel.app/?username=miel2793&theme=gruvbox&margin-w=10&no-frame=true&title=Stars,Commits,Followers,Repositories" />
-        </p>
-    </section>
+### 🌐 Connect With Me
 
-    <!-- Contact Me Section -->
-    <section class="contact">
-        <h2>📧 Contact Me</h2>
-        <p>
-            <a href="mailto:mahmudsifat2793@gmail.com">
-                <img src="https://img.shields.io/badge/Email-mahmudsifat2793%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-            </a>
-            <a href="mailto:20234103368@cse.bubt.edu.bd">
-                <img src="https://img.shields.io/badge/Email-20234103368%40cse.bubt.edu.bd-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-            </a>
-        </p>
-    </section>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mielmahmud">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/mielmsifat">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/miel_mahmud">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/sifat_2793">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
-    <!-- Footer -->
-    <footer>
-        <p>Thank you for visiting my portfolio! 🔥</p>
-    </footer>
+---
 
-</body>
+### 📫 Contact Me via Email
 
-</html>
+- 📧 **[mahmudsifat2793@gmail.com](mailto:mahmudsifat2793@gmail.com)**
+- 📧 **[20234103368@cse.bubt.edu](mailto:20234103368@cse.bubt.edu)**
+
+---
+
+### 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miel2793&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Code like poetry, deploy like magic.”</b><br/>
+  🔥 Stay curious. Keep building. Connect with me anytime!
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg" />
+</p>
