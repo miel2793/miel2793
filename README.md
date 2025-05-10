@@ -1,53 +1,70 @@
-<!-- WELCOME BANNER -->
+<!-- 👋 Greeting with Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Miel+Mahmud+Sifat;Flutter+Dev+%7C+C%2FC%2B%2B+Geek+%7C+Dreaming+Big" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" height="170" alt="Coding Animation" />
+  <img src="https://i.gifer.com/7VE.gif" width="300" alt="dev animation" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-🌟 **Name:** Miel Mahmud Sifat  
-📚 **CSE student at:** BUBT  
-💻 **Love to build:** Apps, Systems & Ideas  
-🎯 **Focus:** Flutter • Dart • C++ • Firebase  
-🚀 **Currently learning:** MERN Stack, Cybersecurity  
-🛠️ **Fun Fact:** I love turning ideas into working digital tools  
+- 🧑‍🎓 **CSE Student** at BUBT  
+- 💻 Passionate **Flutter Developer & C++ Enthusiast**  
+- 🚀 I love turning **complex problems into real apps**  
+- 🎯 Currently exploring **MERN stack & Firebase integration**  
+- 🛠 Always open to learning and collaboration!
 
 ---
 
-### 💼 My Toolbox
+### ⚙️ Tools, Tech & Platforms I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,python,html,css,firebase,mongodb,mysql,git,github,figma,photoshop,illustrator" />
+#### 🖥️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,dart,python,html,css,js,ts" />
+</p>
+
+#### 📱 Mobile & Web Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,mongodb,firebase,express" />
+</p>
+
+#### 🧰 Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma,linux" />
+</p>
+
+#### 🎨 Design & Content
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,canva" />
 </p>
 
 ---
 
-### 🌟 Highlighted Projects
+### 🚀 Highlighted Projects
 
-| 🔗 Project | 🔍 Description |
+| 🔗 Project | 🧠 Description |
 |-----------|----------------|
-| 🚗 [Parking Management System](https://github.com/miel2793/Parking-Management-System-For-BUBT) | A smart C++ system for BUBT parking |
-| 🧮 [Function.c](https://github.com/miel2793/Function.c) | C language function practice codes |
-| 🌐 [My Portfolio](https://github.com/miel2793/My-Portfolio) | Stylish responsive portfolio site |
-| 📱 [Flutter Exam App](https://github.com/miel2793/Ostad-_flutter-8th-_-Exam-week-1) | Simple mobile app with Flutter |
+| [🚗 Parking System](https://github.com/miel2793/Parking-Management-System-For-BUBT) | Smart parking system in C++ |
+| [🌐 Portfolio](https://github.com/miel2793/My-Portfolio) | Modern personal website |
 
 ---
 
-### 📊 GitHub Insights
+### 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miel2793&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miel2793&theme=radical&hide_border=true&border_radius=20" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=miel2793&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=miel2793&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miel2793&theme=radical&no-frame=true&title=MultiLanguage,Repositories,Stars,Followers" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miel2793&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miel2793&theme=gruvbox&margin-w=10&no-frame=true&title=Stars,Commits,Followers,Repositories" />
 </p>
 
 ---
@@ -55,29 +72,39 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mielmahmud" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mielmahmud">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/mielmsifat" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://facebook.com/mielmsifat">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/miel_mahmud" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/miel_mahmud">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/sifat_2793" target="_blank">
+  <a href="https://codeforces.com/profile/sifat_2793">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📈 Visitors Count
+### 👁️ Visitor Count
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miel2793&label=Profile+Views&color=blueviolet&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=miel2793&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <b>“Consistency > Perfection”</b> — Keep learning, keep building 💙
+  <b>“Code like poetry, deploy like magic.”</b><br/>
+  🔥 Stay curious. Keep building. Connect with me anytime!
 </p>
