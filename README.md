@@ -7,6 +7,11 @@
   <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/arjunar/blob/main/assets/flutter-dev.gif" width="400" alt="Flutter Developer Animation" />
 </p>
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://source.unsplash.com/1600x400/?tech,flutter" alt="Banner Image" width="100%" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -22,22 +27,22 @@
 ### ⚙️ Tools, Tech & Platforms I Use
 
 #### 🖥️ Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,dart,python,html,css,js,ts" />
 </p>
 
 #### 📱 Mobile & Web Dev
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,mongodb,firebase,express" />
 </p>
 
 #### 🧰 Dev Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma,linux" />
 </p>
 
 #### 🎨 Design & Content
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ps,ai,canva" />
 </p>
 
@@ -57,7 +62,6 @@
 - **Firebase**: Integrated in many projects for real-time data storage.
 - **Responsive Design**: Ensured all web-based projects are mobile-friendly.
 - **Advanced Algorithms**: Demonstrated in the C++ projects.
-
 
 ### 📈 GitHub Stats & Trophies
 
