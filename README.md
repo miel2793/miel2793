@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum!" alt="Typing SVG" />
 </h1>
 
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/arjunar/blob/main/assets/flutter-dev.gif" width="400" alt="Flutter Developer Animation" />
+  <img src="https://via.placeholder.com/1500x400/FF7F50/FFFFFF?text=Your+Banner+Image" alt="Banner Image" width="100%" />
 </p>
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://source.unsplash.com/1600x400/?tech,flutter" alt="Banner Image" width="100%" />
+  <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/arjunar/blob/main/assets/flutter-dev.gif" width="400" alt="Flutter Developer Animation" />
 </p>
 
 ---
