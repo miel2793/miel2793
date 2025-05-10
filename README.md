@@ -1,10 +1,11 @@
 <!-- 👋 Greeting with Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B;I'm+Miel+Mahmud+Sifat;Flutter+Dev+%7C+C%2FC%2B%2B+Geek+%7C+Dreaming+Big" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Assalamualykum !+%F0%9F%91%8B;I'm+Miel+Mahmud+Sifat; 
+  Flutter+Dev+%7C+C%2FC%2B%2B+Geek+%7C+Dreaming+Big" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="developer animation" />
+  <img src="https://raw.githubusercontent.com/ArjunAranetaCodes/arjunar/blob/main/assets/flutter-dev.gif" width="400" alt="Flutter Developer Animation" />
 </p>
 
 ---
