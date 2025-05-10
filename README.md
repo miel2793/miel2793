@@ -5,7 +5,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1500x400/FF7F50/FFFFFF?text=Your+Banner+Image" alt="Banner Image" width="100%" />
+  <img src="https://raw.githubusercontent.com/miel2793/YourBannerImageLink/main/banner.jpg" alt="Banner Image" width="100%" />
 </p>
 
 <p align="center">
